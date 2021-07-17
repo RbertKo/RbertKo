@@ -7,7 +7,9 @@
  - I'm a developer since 2017 and a backend, infra engineer, now.
 
 ## My colors
-
+<div style="display: flex; justify-content: space-between; background: #7e41d9">
+<img src="my-colors.png" alt="drawing" width="200"/>
+</div>
 
 # I'm currently working on
  - [6th DDD Community backend organizor](https://github.com/DevelopDesignDayDay) (2021 - present)
