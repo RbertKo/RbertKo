@@ -6,7 +6,17 @@
  - Call me R.bertKo (not RobertKo... just sounds like "AlbertKo").
  - I'm a developer since 2017 and a backend, infra engineer, now.
 
-# Work Experiences
+## My colors
+
+
+# I'm currently working on
+ - [6th DDD Community backend organizor](https://github.com/DevelopDesignDayDay) (2021 - present)
+ - [Incheon Dev's Community organizor](https://incheon.devs.co.kr/) (2018 - present)
+ - [MondrianAI Web Backend / Infra engineer](https://mondrian.ai/) (2019 - present)
+
+# I'm interested in
+ - I'm very interested in Rust lang.
+ - I want deeper technical skills.
 
 # I'm here
 
