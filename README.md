@@ -14,7 +14,7 @@
 # I'm currently working on
  - [6th DDD Community backend organizor](https://github.com/DevelopDesignDayDay) (2021 - present)
  - [Incheon Dev's Community organizor](https://incheon.devs.co.kr/) (2018 - present)
- - [MondrianAI Web Backend / Infra engineer](https://mondrian.ai/) (2019 - present)
+ - [Flex Product Backend Engineer](https://flex.team/) (2021 - present)
 
 # I'm interested in
  - I'm very interested in Rust lang.
