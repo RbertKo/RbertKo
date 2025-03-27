@@ -3,29 +3,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RbertKo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # About Me
- - Call me R.bertKo (not RobertKo... just sounds like "AlbertKo").
- - I'm a developer since 2017 and a backend, infra engineer, now.
 
-## My colors
-<div style="display: flex; justify-content: space-between; background: #7e41d9">
-<img src="my-colors.png" alt="drawing" width="200"/>
-</div>
+> I don’t just write code — I make things work. Problem-solving is my mission.
 
-# I'm currently working on
- - [6th DDD Community backend organizor](https://github.com/DevelopDesignDayDay) (2021 - present)
- - [Incheon Dev's Community organizor](https://incheon.devs.co.kr/) (2018 - present)
- - [Flex Product Backend Engineer](https://flex.team/) (2021 - present)
+문제를 해결하고, 일이 돠도록 하는 것이 제 지향점이며 미션입니다.
 
-# I'm interested in
- - I'm very interested in Rust lang.
- - I want deeper technical skills.
+엔지니어링은 저의 미션을 위한 도구입니다.
 
-# I'm here
+---
 
-[![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/RbertKo)](https://github.com/RbertKo)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myeongsku@gmail.com)](mailto:myeongsku@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/myeongsku/)](https://www.facebook.com/myeongsku/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/명석-고-13439016a/)](https://www.linkedin.com/in/명석-고-13439016a/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://rbertko.notion.site/R-bertKo-b3eb36c005954e0abab939d5eda43f44)](https://rbertko.notion.site/R-bertKo-b3eb36c005954e0abab939d5eda43f44)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@r.bertko)](https://medium.com/@myeongsku_19630)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RbertKo)](https://twitter.com/RbertKo)
